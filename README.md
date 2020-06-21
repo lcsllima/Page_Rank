@@ -16,6 +16,7 @@ no navegador, então deixei um .strip() na "input" para evitar que esse espaço 
 
 
 <h4>tecnologias</h4>
+
 - Python
 - JSON
 - SQL
@@ -36,7 +37,7 @@ no navegador, então deixei um .strip() na "input" para evitar que esse espaço 
 - <span title="Ignore esse código">spdump.py</span>
   Apenas faz uma contagem, e te mostra os dados, com o antigo e novo rank da página.
   
-<h4>Opinião pessoal/h4>
+<h4>Opinião pessoal</h4>
   
 Foi uma experiência muito boa, pude ter uma visão melhor com relação ao spidering. 
 O projeto em si, por completo é muito divertido de se fazer e principalmente ver o resultado.
