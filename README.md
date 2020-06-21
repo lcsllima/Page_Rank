@@ -41,7 +41,7 @@ no navegador, então deixei um .strip() na "input" para evitar que esse espaço 
   
 Foi uma experiência muito boa, pude ter uma visão melhor com relação ao spidering. 
 O projeto em si, por completo é muito divertido de se fazer e principalmente ver o resultado.
-Quando você colocar o spider.py para “rodar” e então lhe fornecer um link, e claro, a quantidade, ele vai salvando as páginas no seu banco de dados, e só nessa parte, você já vê como é maravilho o Spidering.  Não vou citar tudo aqui, como por exemplo o “sprank.py” atualizando os ranks,  ou em como visualizamos esses dados mais tarde. Se você quiser ter essa experiência completa, esta tudo disponível aqui!
+Quando você colocar o spider.py para “rodar” e então lhe fornecer um link, e claro, a quantidade, ele vai salvando as páginas no seu banco de dados, e só nessa parte, você já vê como é maravilhoso o Spidering.  Não vou citar tudo aqui, como por exemplo o “sprank.py” atualizando os ranks,  ou em como visualizamos esses dados mais tarde. Se você quiser ter essa experiência completa, esta tudo disponível aqui!
 
 No banco esta salvo os dados do meu blog que abri só pra ir colocando umas informações minhas, 
 nada de mais → https://lcslima.home.blog/
